@@ -1,7 +1,7 @@
 # termux-package
 <h1 align="center">
 
- 🌎 RANDOM CLONE 🌎
+ termux-package
 
 </h1>
 
